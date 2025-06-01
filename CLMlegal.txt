@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Shabbir Das | Legal Operations Expert</title>
+  <style>
+    :root {
+      --primary: #003366;
+      --accent: #00b894;
+      --secondary: #0984e3;
+      --bg-light: #f9f9f9;
+      --text-dark: #333;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      background: var(--bg-light);
+      color: var(--text-dark);
+      line-height: 1.6;
+    }
+
+    header, section, footer {
+      padding: 1.5rem;
+      margin: auto;
+      max-width: 1200px;
+    }
+
+    .hero {
+      background: var(--primary);
+      color: white;
+      text-align: center;
+      padding: 3rem 1.5rem;
+    }
+
+    h1, h2 {
+      margin: 0.5rem 0;
+    }
+
+    .cta-btn {
+      display: inline-block;
+      background: var(--accent);
+      color: white;
+      padding: 0.75rem 1.25rem;
+      border: none;
+      font-size: 1rem;
+      cursor: pointer;
+      margin-top: 1rem;
+      border-radius: 4px;
+      text-decoration: none;
+    }
+
+    .cta-secondary {
+      background: var(--secondary);
+    }
+
+    ul, ol {
+      padding-left: 1.2rem;
+    }
+
+    footer {
+      text-align: center;
+      font-size: 0.875rem;
+      color: #666;
+      padding: 2rem 1rem;
+    }
+
+    /* Responsive layout */
+    @media (min-width: 768px) {
+      header, section, footer {
+        padding: 2rem 3rem;
+      }
+
+      .hero h1 {
+        font-size: 2.5rem;
+      }
+
+      .cta-btn {
+        font-size: 1.125rem;
+      }
+    }
+
+    a {
+      color: var(--secondary);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+  <header class="hero">
+    <h1>Streamline Your Legal Operations & Drive Efficiency</h1>
+    <p>Expert Legal Support for UK & US Businesses | 10+ Years of Proven Experience</p>
+    <a href="mailto:das.shabbir@gmail.com" class="cta-btn">Schedule a Free Consultation</a>
+  </header>
+
+  <section>
+    <h2>Overwhelmed by Legal Workloads?</h2>
+    <ul>
+      <li>Disjointed, time-consuming contract management?</li>
+      <li>Challenges with UK debt recovery or US litigation support?</li>
+      <li>Struggling with legacy brand compliance?</li>
+      <li>Team performance falling short of expectations?</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>My Strategic Legal Solutions</h2>
+    <ul>
+      <li><strong>Process Excellence:</strong> End-to-end workflow optimization.</li>
+      <li><strong>Quality Assurance:</strong> High standards, consistent delivery.</li>
+      <li><strong>Project Management:</strong> Timely and cost-effective outcomes.</li>
+      <li><strong>Risk Mitigation:</strong> Prevent legal and operational pitfalls.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Why Choose Me?</h2>
+    <ul>
+      <li>10+ years with DWF Legal Operations</li>
+      <li>Expert in UK recoveries and US litigation support</li>
+      <li>Hands-on leadership and innovation focus</li>
+      <li>LL.M., LL.B., and B.Com certified</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Core Services</h2>
+    <ol>
+      <li><strong>Contract Lifecycle & Abstraction</strong> – Faster due diligence & compliance.</li>
+      <li><strong>Recoveries & Lender Services (UK)</strong> – Improved cash flow.</li>
+      <li><strong>Medical Records & Litigation (US)</strong> – Accurate, litigation-ready summaries.</li>
+      <li><strong>Brand Compliance</strong> – Post-merger documentation rebranding.</li>
+      <li><strong>Process Optimization</strong> – Better team delivery and SLA adherence.</li>
+    </ol>
+  </section>
+
+  <section class="hero" style="background: #eee; color: #000;">
+    <h2>Ready to Transform Your Legal Operations?</h2>
+    <p>Book a complimentary consultation and let's identify how I can support your success.</p>
+    <a href="mailto:das.shabbir@gmail.com" class="cta-btn cta-secondary">Schedule Now</a>
+    <p style="margin-top: 1rem;">Or email me at <a href="mailto:das.shabbir@gmail.com">das.shabbir@gmail.com</a></p>
+  </section>
+
+  <section>
+    <h2>About Me</h2>
+    <p>I'm Shabbir Das – legal ops professional with 10+ years of experience optimizing legal delivery for UK and US clients. From contract abstraction to litigation support, I bring legal and business acumen to help organizations thrive.</p>
+  </section>
+
+  <footer>
+    &copy; 2025 Shabbir Das | Legal Operations Specialist | <a href="mailto:das.shabbir@gmail.com">Contact Me</a>
+  </footer>
+
+</body>
+</html>
